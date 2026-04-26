@@ -6,9 +6,9 @@
 Rapid Crisis Response is a multi-dashboard emergency response platform designed for **speed, coordination, and life-saving escalation**.  
 It connects three stakeholders in one live workflow:
 
-- **User Dashboard** (where emergencies are raised)
-- **Hotel Dashboard** (where incidents are acknowledged and managed)
-- **Emergency Services Dashboard** (where police/hospital/fire teams receive escalations)
+- **User Dashboard** (where emergencies are raised) [Access GitHub](https://github.com/SampradaReddy/User-end-Emeregency-app)
+- **Hotel Dashboard** (where incidents are acknowledged and managed) [Access GitHub](https://github.com/NiyaSinghShekhawat/HotelDash)
+- **Emergency Services Dashboard** (where police/hospital/fire teams receive escalations) [Access GitHub](https://github.com/Shreyan2745/emergency-response-dashboard)
 
 The goal is simple: **reduce response time and coordination failure during critical incidents**.
 
