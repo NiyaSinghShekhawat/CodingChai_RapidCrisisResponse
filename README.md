@@ -5,7 +5,7 @@
 
 Rapid Crisis Response is a multi-dashboard emergency response platform designed for **speed, coordination, and life-saving escalation**.  
 It connects three stakeholders in one live workflow:
-[Try out yourself](https://coding-chai-rapid-crisis-response-pkw4wiitz-niyasinghshekhawat.vercel.app/)
+[Try out yourself](https://coding-chai-rapid-crisis-response.vercel.app/)
 
 - **User Dashboard** (where emergencies are raised) [Access GitHub](https://github.com/SampradaReddy/User-end-Emeregency-app)
 - **Hotel Dashboard** (where incidents are acknowledged and managed) [Access GitHub](https://github.com/NiyaSinghShekhawat/HotelDash)
